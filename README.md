@@ -2,6 +2,3 @@
 Final Year Project - B.Tech - Team QNex
 Update your work Here !!!
 Add Working Folder and write in text file in dependencies needed.
-
-
-
