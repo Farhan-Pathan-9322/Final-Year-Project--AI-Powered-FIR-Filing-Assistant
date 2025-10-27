@@ -1,3 +1,5 @@
+Final Review of this Sem: 28th oct, 2025
+
 # Final-Year-Project--AI-Powered-FIR-Filing-Assistant
 Final Year Project - B.Tech - Team QNex
 Update your work Here !!!
@@ -6,3 +8,4 @@ Update Require
 Both Draft + Model 60%
 Tommorow we will have Google meet
 Todays 2nd Meeting time 8.00 or 8.30 pm
+
