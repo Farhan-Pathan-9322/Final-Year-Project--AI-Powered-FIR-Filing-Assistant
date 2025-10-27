@@ -5,3 +5,4 @@ Add Working Folder and write in text file in dependencies needed.
 Update Require
 Both Draft + Model 60%
 Tommorow we will have Google meet
+Todays 2nd Meeting time 8.00 or 8.30 pm
