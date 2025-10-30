@@ -13,3 +13,4 @@ Todays 2nd Meeting time 8.00 or 8.30 pm
 
 IF possible Update all Next Updations of Project here only
 Next Target--->
+Publishing IEEE conf. paper and Copyright...
