@@ -15,4 +15,4 @@ IF possible Update all Next Updations of Project here only
 Next Target--->
 Publishing IEEE conf. paper and Copyright...
 
-On 7th of Nov. we will meet to Nikam sir and will disscuss about Filing the process of IEEE and Copyright.
+
